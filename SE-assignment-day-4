@@ -1,0 +1,92 @@
+1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+Importance:
+
+Prevents cost overruns
+Maintains client satisfaction
+Ensures market competitiveness
+Avoids resource wastage
+Ways to meet deadlines:
+
+Setting realistic milestones
+Using Agile methodologies for flexibility
+Regular progress monitoring with tools like Jira or Trello
+Managing risks proactively
+Ensuring effective team collaboration
+2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Importance:
+
+Avoids financial losses
+Ensures project profitability
+Maintains investor and stakeholder trust
+Strategies:
+
+Accurate budgeting with cost estimation tools
+Regular financial tracking using accounting software
+Scope control to avoid unnecessary additions (scope creep)
+Resource optimization for efficient use of workforce and tools
+3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Aspect	Agile	Waterfall
+Approach	Iterative & flexible	Linear & structured
+Planning	Adaptive & ongoing	Defined upfront
+Feedback	Continuous customer feedback	Minimal until the final stage
+Risk Management	Better due to frequent iterations	Higher as issues may surface late
+Best for	Dynamic projects with evolving requirements	Stable, well-defined projects
+4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is best for:
+
+Web and mobile app development (e.g., Instagram feature updates)
+Software requiring continuous updates (e.g., SaaS products)
+Waterfall is best for:
+
+Large-scale government projects (e.g., military software)
+Safety-critical systems (e.g., healthcare software)
+5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods:
+
+Automated and manual testing
+Code reviews
+Continuous Integration/Continuous Deployment (CI/CD)
+User feedback loops
+Importance:
+
+Enhances user satisfaction
+Reduces post-deployment errors
+Saves costs on bug fixes
+6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Project scope: Prevents misunderstandings and keeps the team aligned on deliverables.
+
+WBS (Work Breakdown Structure): A hierarchical breakdown of tasks, helping with:
+
+Resource allocation
+Progress tracking
+Risk management
+7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits:
+
+Clear timeline for deliverables
+Efficient resource management
+Helps in tracking dependencies
+Gantt Charts:
+
+Visual representation of tasks
+Shows dependencies between tasks
+Helps identify potential bottlenecks
+8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Depends on your software idea (e.g., learning platform, fintech, etc.)
+Identifies pain points such as inefficiency, lack of automation, or security concerns
+9. How can clearly defining the problem help in developing a more effective software solution?
+Ensures focus on key pain points
+Helps in choosing the right technology stack
+Prevents unnecessary features that bloat development
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Example: "A web-based learning platform that makes coding fun and interactive for beginners."
+
+11. What are the main features or functionalities that make your software stand out?
+Unique selling points (e.g., AI-driven recommendations, real-time collaboration, gamification, etc.)
+12. What data is available regarding the market size and growth potential for your software?
+Depends on industry research (e.g., EdTech, FinTech, etc.)
+Can use reports from Statista, Gartner, or IBISWorld
+13. How can understanding market trends inform your software’s positioning and development?
+Helps identify customer needs
+Guides pricing strategies
+Enables differentiation from competitors
